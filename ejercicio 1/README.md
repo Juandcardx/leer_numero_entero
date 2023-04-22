@@ -1,0 +1,1 @@
+1. leer N numeros enteros (uno en cada lectura), mostrar e imprimir cuantos son pares y cuantos son impares.
